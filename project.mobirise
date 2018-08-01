@@ -2,14 +2,15 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "2.9",
-    "versionPublish": "4.6.6",
+    "versionPublish": "4.8.1",
     "name": "IPM-Team",
     "favicon": "@PROJECT_PATH@/assets/images/bvlag.gif",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "theme": {},
-    "uniqCompNum": 4
+    "uniqCompNum": 4,
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
